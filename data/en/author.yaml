@@ -1,0 +1,17 @@
+# some information about you
+name: "Kyung Tae Kim"
+nickname: "hela.kim"
+image: "images/author/yes_we_code.jpeg"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+# TODO ADD LINK
+  email: "kt.kim@acm.org"
+  github: "https://github.com/hela.kim"
+
+# some summary about what you do
+summary:
+  - I'm a Machine and Deep Learning Researcher
+  - My focus area for the past few years has been CV & PR
+  - I love Computer Vision
+  - I work on open source projects
