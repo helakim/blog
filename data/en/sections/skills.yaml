@@ -5,3 +5,32 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "I am proficient in designing and writing a scaled, high-performance softwares and systems. I also love modern C++(CUDA Kernel), and general-purpose libraries or frameworks such as Boost."
+  url: "https://en.wikipedia.org/wiki/CPP"
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Managed as a extremely productive scripting language, and general purpose application development tool. Data analysis and scientific computing stacks (E.g. numpy, sicpy, modin, ray)"
+  url: "https://en.wikipedia.org/wiki/CPP"
+- name: Rust
+  logo: /images/sections/skills/rust.png
+  summary: "I've started learning it recently and found it challenging (in a good way!) I'm not proficient yet but I've worked on some features and fixes on my own."
+  url: "https://www.rust-lang.org/"
+- name: PyTorch
+  logo: /images/sections/skills/pytorch-logo.png
+  summary: "Proficient use of pytorch to solve graph-based neural network problems Pattern Recognition and Machine Learning"
+  url: "https://pytorch.org/"
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: JavaScript
+  logo: /images/sections/skills/javascript.png
+  summary: "I am proficient in writing front-end applications with vairous javascript frameworks such as VueJS and NuxtJS, and in writing a simple backend applications with node.js. I am also skillful on various node-based build tools (e.g. NPM, YARM)"
+  url: "https://pytorch.org/"
