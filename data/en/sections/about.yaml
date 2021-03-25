@@ -1,0 +1,69 @@
+
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Deep Learning Researcher
+
+company:
+  name: AI LAB
+  url: ""
+
+# resume storage
+resume: "files/resume.pdf"
+summary: I am a Machine and Deep Learning Researcher based in Seoul with 7~8 years of experience in the Computer Science Research My focus area for the past few years has been Computer Vision & Pattern Recognition  Research with C++ & Python and I'm also skilled in algorithm optimization development with C++ & RUST.
+
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/helakim"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "kt.kim@acm.org"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Research
+  percentage: 90
+  color: blue
+
+- name: Development
+  percentage: 95
+  color: yellow
+
+- name: Problem Solving
+  percentage: 85
+  color: pink
+
+- name: Communication
+  percentage: 75
+  color: green
+
+- name: Leadership
+  percentage: 80
+  color: sky
+
+- name: Team Work
+  percentage: 75
+  color: orange
